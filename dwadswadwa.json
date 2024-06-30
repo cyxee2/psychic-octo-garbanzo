@@ -22,5 +22,10 @@
   {
     "username": "alex",
     "token": "4135aa9dc1b842a653dea846903ddb95bfb8c5a10c504a7fa16e10bc31d1fdf0"
+  },
+  {
+    "username": "test",
+    "token": "f16b6c4b6b65cb1b1fdf14ff7c5df39e4c1558e4e4706cc5cfcbefb1f4469a5e",
+    "salt": "PKtSQp3xVl4WigRi"
   }
 ]

@@ -3,5 +3,10 @@
     "username": "test",
     "token": "f16b6c4b6b65cb1b1fdf14ff7c5df39e4c1558e4e4706cc5cfcbefb1f4469a5e",
     "salt": "PKtSQp3xVl4WigRi"
+  },
+  {
+    "username": "grahgrahboom",
+    "token": "b63e0d056a76a8a14bb930a9e5b18d7d7b6acf9c5b2d1bed37881c7c17623c9b",
+    "salt": "74HhU2itQMX2nXXB"
   }
 ]
